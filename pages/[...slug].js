@@ -2,7 +2,7 @@
 import DOMPurify from 'isomorphic-dompurify';
 
 
-function Slug({ pageitem }) {
+function Slug({ pageitem }) {  
 
    
         return (
